@@ -1,2 +1,3 @@
-* сервер настроить на ./public/
-* запустить composer install
+__Simple MVC skeleton__
+* set server for start from ./public/
+* launch composer install in main directory
